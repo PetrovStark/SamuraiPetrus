@@ -6,6 +6,8 @@
   <li>Programming is an art.</li>
   <li>etc,etc...</li>
 </ul>
-<h2>I perform well with these languages:</h2>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuraipetrus&theme=dark&layout=compact">
 <p><i>Besides coding, i like listening to 70-80-90's music, raise cats, and reading Franz Kafka and Dostoiévski, i'm a very philosophical person!</i></p>
+<h2>Here's some data about me:</h2>
+<img src="https://komarev.com/ghpvc/?username=SamuraiPetrus" alt="SamuraiPetrus" />
+<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=SamuraiPetrus&show_icons=true&theme=dark" alt="SamuraiPetrus" />
+<img width="370px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuraiPetrus&hide=html&layout=compact&theme=dark" />
